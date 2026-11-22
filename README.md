@@ -80,6 +80,9 @@ The checked-in Compose file uses Apache Airflow `2.1.1`; the observed container 
 │   ├── dags/
 │   │   └── assignment.py
 │   └── docker-compose.yaml
+├── assets/
+│   ├── mit-course-force-graph.jpg
+│   └── mit-course-packed-bubble-chart.jpg
 ├── project_creating_a_sensemaking_data_pipeline/
 │   ├── 00_urls.txt
 │   ├── 01_pull.py
